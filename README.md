@@ -1,8 +1,5 @@
 # Automatic-Number-Plate-Detection-Using-Image-Processing
 ==========================================================================
-
-This repository contains my Practical 3 submission for INTE 41312 – Image Processing and Computer Graphics. The project implements a basic automatic number plate detection system using Python and OpenCV, focusing on classical image processing techniques rather than deep learning.
-
 **Project overview**
 In many real-world scenarios such as traffic monitoring, smart parking systems, toll gate automation, and security/surveillance, vehicles must be identified quickly and accurately. Manual number plate reading is slow, error-prone, and not scalable when there are large numbers of vehicles.
 
